@@ -22,7 +22,8 @@ public class Calculator {
     private static final int BUTTON_HEIGHT = 70;
     private static final int MARGIN_X = 20;
     private static final int MARGIN_Y = 60;
-
+//HI
+    
     private JFrame window; // Main window
     private JComboBox<String> comboCalcType, comboTheme;
     private JTextField inText; // Input
